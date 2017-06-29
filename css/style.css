@@ -1,0 +1,100 @@
+header {
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 5px;
+}
+nav {
+	text-align: center;
+	background: light gray;
+}
+
+body {
+	height: auto;
+	background-color: #e0e0e0;
+}
+.navigation {
+	top: 50%;
+    border: white;
+    border-radius: 5px;
+    background: #e2f1f8;
+    height: 50px;
+    padding: 5px;
+}
+
+.navBar {
+	margin: auto;
+    background: #8D99AE;
+    color: white;
+    border: white;
+    border-width: 3px;
+    text-decoration: none;
+
+ 
+}
+footer {
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 5px;
+}
+a {
+	
+    width: 50%;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-color: black;
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    padding: 8px;
+}
+a:hover {
+	background-color: green;
+}
+h1 {
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+.divider {
+	border-right-width: 2px;
+	border-right-color: black;
+	border-right-style: solid;
+}
+span {
+	font-size: 22px;
+	font-style: italic;
+	font-weight: 700;
+}
+img {
+	height: 200px;
+	width: 200px;
+	margin-left: 300px;
+}
+.links {
+	text-align: center;
+	background-color: #8D99AE;
+	height: 75px;
+	margin: auto;
+	top: 50%;
+}
+.jobDescription {
+	position: relative;
+}
+h2, h3 {
+	padding: 10px;
+}
+.bio {
+	padding: 3px;
+	background-color: gray;
+}
+.job {
+	margin-left: 30px;
+}
+
+.experience {
+	margin-left: 30px;
+}
+.profileImage {
+	margin-left: 150px;
+}
